@@ -17,6 +17,6 @@ The goal for this project are the following:
 
 
 To-dos:
-1. Modify distributed_site_age_gender_table.R and distributed_site_age_gender_table_combine.R to take in any reasonable number of categorical covariates (Steve).
-2. Test the modified code in real data (Ruowang).
+1. Modify distributed_site_age_gender_table.R and distributed_site_age_gender_table_combine.R to take in any reasonable number of categorical covariates.
+2. Test the modified code in real data.
 
