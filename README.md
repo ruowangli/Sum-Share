@@ -9,9 +9,4 @@ Sum-Share requires two rounds of communication, thus it needs at least four func
 As of now, each step has its own R script. To speed up the calculation, some of the R scripts also calls several custom C++ functions (score_hessian.cpp).
 
 
-The goal for the next steps are the following:
-1. Improve the flexibility of the code. E.g., remove instances of hard coding the number of phenotypes. 
-2. Make the code modular to allow features to be added in the future. E.g., adding options for missing data imputation, adding option for the discretization of continuous covaraites, allowing other genetic data input format, etc.
-3. Have a working prototype realeased on github.
-4. Release the final software on bioconductor.
 
